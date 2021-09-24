@@ -1,24 +1,7 @@
-# README
+# RAILS STARTUP TEMPLATE
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This template is generated from *[Jumpstart Rails Template](https://github.com/excid3/jumpstart)* 
 
-Things you may want to cover:
+#### Please check this [repo readme]((https://github.com/excid3/jumpstart)) for startup instructions.
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
